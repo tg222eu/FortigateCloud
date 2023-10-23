@@ -13,3 +13,7 @@ If you have a resourse group you should create one. In our case its "HomeLab". S
 Leave everything in Instance at default
 
 At the network section there has been networks created by default. Change this if you which. The only change we do here is by disable accelerating network
+
+In public ip section, you can leave the IP address as default, SKU: Basic, Assignment: Dynamic
+
+In advanced select No on serial console
