@@ -25,3 +25,5 @@ Once deployment is complete, you can now go into virtual machine Fortigate-FGT a
 Once logged in fortigate ask for a license. If you dont have a license select Evaluation License and enter your Forticare account Upload the licens file and proceed
 
 Fortigate Setup: Later
+
+Now the fortigate is setup
