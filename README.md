@@ -1,5 +1,7 @@
 # FortigateCloud
 
+Azure
+
 This lab will configure and install fortigate firewall and a client should be conneting to it via PVC
 
 Prerequisite: Registered Azure account
@@ -27,3 +29,11 @@ Once logged in fortigate ask for a license. If you dont have a license select Ev
 Fortigate Setup: Later
 
 Now the fortigate is setup
+
+Google Cloud
+
+Search for Fortigate Next-generation firewall and make sure you chooce (PAYG) if you use trial and then deploy
+
+Google cloud will ask you to enable API. Hit enable
+
+https://cloud.google.com/compute/docs/instances/moving-instance-across-zones#moving-an-instance-manually
